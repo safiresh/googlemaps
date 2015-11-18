@@ -1,0 +1,28 @@
+{
+  "name": "hm-googlemaps",
+  "version": "1.0.0",
+  "description": "A simple way to query the Google Maps API from Node.js with muliple API keys \"googlemaps\" V1.02 ",
+  "main": "lib/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Sathish Kumar",
+    "email": "sathish@hakunamatata.in"
+  },
+  "keywords": [
+    "map",
+    "geo",
+    "google",
+    "api",
+    "dynamic key"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@git.hakunamatata.in:node/hm-googlemaps.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "googlemaps": "^1.0.2"
+  }
+}
