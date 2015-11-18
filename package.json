@@ -1,6 +1,6 @@
 {
   "name": "hm-googlemaps",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple way to query the Google Maps API from Node.js with muliple API keys \"googlemaps\" V1.0.2 ",
   "main": "lib/index",
   "scripts": {
