@@ -164,7 +164,7 @@ var result = gmAPI.streetView(params);
 
 ### Further examples
 
-Please refer to the code, [tests](http://github.com/moshen/node-googlemaps/tree/master/test/) and the [Google Maps API docs](http://code.google.com/apis/maps/documentation/webservices/index.html) for further usage information.
+Please refer to the code, [tests](http://github.com/safiresh/googlemaps) and the [Google Maps API docs](http://code.google.com/apis/maps/documentation/webservices/index.html) for further usage information.
 
 
 ### Contributions
@@ -173,16 +173,10 @@ Criticism/Suggestions/Patches/PullRequests are welcome.
 
 ### Original contributors list
 
-[![evnm](https://secure.gravatar.com/avatar/2a8171b6c385b865e30bf070cf588329?s=50)](https://github.com/evnm)
-[![duncanm](https://secure.gravatar.com/avatar/7310945bafb21aa68b18d61d8b9d2d61?s=50)](https://github.com/duncanm)
-[![sugendran](https://secure.gravatar.com/avatar/3228aae57c1dc3f657bbc64c26c97b77?s=50)](https://github.com/sugendran)
-[![JoshSmith](https://secure.gravatar.com/avatar/b07d5a5f2e75633b2085142250a6762b?s=50)](https://github.com/JoshSmith)
-[![grobot](https://secure.gravatar.com/avatar/ba3313effc329919b09bca67827bdf10?s=50)](https://github.com/grobot)
-[![regality](https://secure.gravatar.com/avatar/fe513a9e239cebde58187721d67b7505?s=50)](https://github.com/regality)
-[![spatical](https://secure.gravatar.com/avatar/a7c5765a4a4dfbf697f728bd75223641?s=50)](https://github.com/spatical)
+[![safiresh](https://avatars2.githubusercontent.com/u/2355624?v=3&s=460)](https://github.com/safiresh)
+
 
 ### v1.0.0 maintener 
-[![moshen](https://avatars0.githubusercontent.com/u/168513?v=3&s=50)](https://github.com/moshen)
-[![fabriziomoscon](https://avatars1.githubusercontent.com/u/721890?v=3&u=b5079f5258887f4cc9a6de1cbadee230bca8ecc1&s=50)](https://github.com/fabriziomoscon)
+[![safiresh](https://avatars2.githubusercontent.com/u/2355624?v=3&s=460)](https://github.com/safiresh)
 
 Contributions and new issues are welcome!
