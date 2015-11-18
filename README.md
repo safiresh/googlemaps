@@ -15,13 +15,9 @@ If you want to migrate from a version older than `1.0.0` check the [WIKI](https:
 ### Installation
 
 ```
-npm install  npm install git+ssh://git@git.hakunamatata.in:node/hm-googlemaps.git
+npm install hm-googlemaps
 
-[In package.json]
 
-{
- "hmgooglemaps": "git+ssh://git@git.hakunamatata.in:node/hm-googlemaps.git",
-}
 ```
 
 ### What does it cover
