@@ -1,8 +1,8 @@
 [![Build Status](https://travis-ci.org/moshen/node-googlemaps.svg)](https://travis-ci.org/moshen/node-googlemaps)
 
-# Google Maps API for Node.js
+# Google Maps API for Node.js with Multi Server Key
 
-This library implements the following Google Maps APIs, and can be also used by Google Maps for Work users.
+This library implements the following Google Maps APIs with mul, and can be also used by Google Maps for Work users.
 
 * [Maps API Web Services](https://developers.google.com/maps/documentation/webservices/)
 * [Google Places API](https://developers.google.com/places/)
@@ -15,7 +15,13 @@ If you want to migrate from a version older than `1.0.0` check the [WIKI](https:
 ### Installation
 
 ```
-npm install googlemaps
+npm install  npm install git+ssh://git@git.hakunamatata.in:node/hm-googlemaps.git
+
+[In package.json]
+
+{
+ "hmgooglemaps": "git+ssh://git@git.hakunamatata.in:node/hm-googlemaps.git",
+}
 ```
 
 ### What does it cover
